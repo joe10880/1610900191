@@ -1,2 +1,2 @@
-msg = "buasdhbfuiohd"
+msg = "This is quiz"
 print(msg)
